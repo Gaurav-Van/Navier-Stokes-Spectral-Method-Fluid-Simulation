@@ -11,7 +11,7 @@ A spectral method represents the numerical solution to a partial differential eq
 
 <hr>
 
-## Ressources and Reference 
+## Resources and Reference 
 
 #### Best Video for Description and Derivation of Navier-Stokes Equation 
 [![Description and Derivation of Navier-Stokes Equation](https://img.youtube.com/vi/NjoMoH51UZc/0.jpg)](https://www.youtube.com/watch?v=NjoMoH51UZc)
